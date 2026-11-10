@@ -1,0 +1,7 @@
+{
+  "alpha": 0.1,
+  "gamma": 0.99,
+  "epsilon_start": 0.1,
+  "epsilon_end": 0.1,
+  "epsilon_decay": 1.0
+}

@@ -1,0 +1,19 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Sistema operacional / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Saídas temporárias
+*.log
+*.tmp
